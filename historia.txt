@@ -2,6 +2,8 @@ Este es un Proyecto para Prueba de Nuevos Comandos de GIT
 
 Se trata de una Página realizada con el Framework "Bootstrap"
 
+Editando el Archivo Index.html
+
 Colaboradores:
 Software Innovations MAC
 
