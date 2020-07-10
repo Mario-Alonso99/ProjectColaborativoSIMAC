@@ -7,6 +7,6 @@ Editando el Archivo Index.html
 Colaboradores:
 Software Innovations MAC
 
-1.- Mario Alberto Alonso Alvarado
-2.- ...
-3.- ...
+1.- Mario Alberto Alonso Alvarado -> Header
+2.- ...                           -> Contenido
+3.- ...                           -> Footer
